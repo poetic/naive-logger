@@ -1,0 +1,26 @@
+{
+  "name": "naive-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poetic/naive-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "node"
+  ],
+  "author": "Chun-Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poetic/naive-logger/issues"
+  },
+  "homepage": "https://github.com/poetic/naive-logger#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
